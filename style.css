@@ -62,7 +62,7 @@ html {
   #header nav ul li a{
    text-decoration: none;
    font-size: 2rem;
-   border: 2px solid #fff;
+   
    padding: 5px 7px;
    border-radius: 3px;
    color: #fff;
@@ -524,6 +524,10 @@ html {
 #footter .line{
   margin-top: 20px;
 
+}
+
+.bxs-heart{
+  color: red;
 }
 
 #footter .line h5{
